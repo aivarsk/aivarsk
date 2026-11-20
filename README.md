@@ -1,6 +1,10 @@
 I build payment systems that don't lose money - from Oracle Tuxedo to TigerBeetle. Packt author, SREcon26 EMEA speaker.
 
-20+ years of transaction processing, high-performance ledgers, and banking platforms. I modernize the legacy estates they run on, Oracle Tuxedo in particular, without big-bang rewrites.
+20+ years of transaction processing, high-performance ledgers, and banking platforms. I modernize the legacy estates they run on, Oracle Tuxedo in particular, without big-bang rewrites. Database performance work, incident response & root cause analysis.
+
+Author of "Modernizing Oracle Tuxedo Applications with Python" (Packt). Recent talks: hidden process state in procfs at SREcon26 EMEA, and "Raw-dogging the Linux proc filesystem" at SRE Day London. Longer list and deep-dive posts at [aivarsk.com](https://aivarsk.com), lately on payment systems built on TigerBeetle.
+
+Off the keyboard: Brazilian jiu-jitsu (purple belt), winter swimming, Latvia Linux team at NATO Locked Shields.
 
 ## Projects
 
@@ -13,9 +17,3 @@ I build payment systems that don't lose money - from Oracle Tuxedo to TigerBeetl
 - [django-taskq](https://aivarsk.com/django-taskq/) - task queue with a Celery-compatible API on the Django database
 
 Older tools and experiments live on [github.com/aivarsk](https://github.com/aivarsk).
-
-## Writing and talks
-
-Author of "Modernizing Oracle Tuxedo Applications with Python" (Packt). Recent talks: hidden process state in procfs at SREcon26 EMEA, and "Raw-dogging the Linux proc filesystem" at SRE Day London. Longer list and deep-dive posts at [aivarsk.com](https://aivarsk.com), lately on payment systems built on TigerBeetle.
-
-Off the keyboard: Brazilian jiu-jitsu (purple belt), winter swimming, Latvia Linux team at NATO Locked Shields.
